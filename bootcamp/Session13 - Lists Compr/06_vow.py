@@ -1,0 +1,1 @@
+print([lett for lett in "amazing" if lett not in "aeiou"])
